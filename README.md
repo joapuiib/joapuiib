@@ -6,6 +6,12 @@ I'm a __Software Engineer__ and a __Computer Science Teacher__ from València.
 
 I like to learn new things constantly and encorauge my students to do the same.
 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?theme=light&i=py,java,html,css,js,git,github,bash,docker,linux,neovim" />
+</a>
+
+---
+
 <details>
   <summary>:octocat: GitHub</summary>
   
