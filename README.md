@@ -16,6 +16,7 @@ I like to learn new things constantly and encorauge my students to do the same.
   <summary>:octocat: GitHub</summary>
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joapuiib&theme=vue)
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joapuiib)
+![](https://github-readme-stats.vercel.app/api?username=joapuiib)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joapuiib&layout=donut)
 
 </details>
