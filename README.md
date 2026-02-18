@@ -10,13 +10,16 @@ I like to learn new things constantly and encorauge my students to do the same.
   <img src="https://skillicons.dev/icons?theme=light&i=py,java,html,css,js,git,github,bash,docker,linux,neovim" />
 </a>
 
----
+## Projects
 
-<details>
-  <summary>:octocat: GitHub</summary>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joapuiib&theme=vue)
-![](https://github-readme-stats.vercel.app/api?username=joapuiib)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joapuiib&layout=donut)
+## Open source contributions
+I've contributed to the following Open Source projects:
 
-</details>
+- [`ultrabug/mkdocs-static-i18n`](https://github.com/ultrabug/mkdocs-static-i18n/graphs/contributors)
+- [`EddyLuten/mkdocs-alias-plugin`](https://github.com/EddyLuten/mkdocs-alias-plugin)
+- [`facelessuser/pymdown-extensions`](https://github.com/facelessuser/pymdown-extensions/graphs/contributors)
+- [`simple-icons/simple-icons`](https://github.com/simple-icons/simple-icons)
+- [`squidfunk/mkdocs-material`](https://github.com/squidfunk/mkdocs-material)
+- [`tuunit/mkdocs-drawio`](https://github.com/tuunit/mkdocs-drawio)
+- [`unverbuggt/mkdocs-encryptcontent-plugin`](https://github.com/unverbuggt/mkdocs-encryptcontent-plugin)
+- [`rodgomesc/avell-unofficial-control-center`](https://github.com/rodgomesc/avell-unofficial-control-center)
