@@ -17,7 +17,6 @@ I like to learn new things constantly and encorauge my students to do the same.
 - [`pymdownx-inline-blocks`](https://github.com/joapuiib/pymdownx-inline-blocks): A Python Markdown extension to add inline block elements based on [PyMdown Block Extension](https://facelessuser.github.io/pymdown-extensions/extensions/blocks/).
 
 ## Open source contributions
-I've contributed to the following Open Source projects:
 
 - [`ultrabug/mkdocs-static-i18n`](https://github.com/ultrabug/mkdocs-static-i18n/commits?author=joapuiib)
 - [`EddyLuten/mkdocs-alias-plugin`](https://github.com/EddyLuten/mkdocs-alias-plugin/commits?author=joapuiib)
