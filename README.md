@@ -13,11 +13,13 @@ I like to learn new things constantly and encorauge my students to do the same.
 ## 🚀 My Main Projects
 
 - **[`fp`](https://github.com/joapuiib/fp)**: Teaching materials for subjects related to computer science.
+- **[`curs-git`](https://github.com/joapuiib/curs-git)**: Git training course materials.
 - **[`mkdocs-data-plugin`](https://github.com/joapuiib/mkdocs-data-plugin)**: MkDocs plugin for reading data from markup files.
 - **[`pymdownx-inline-blocks`](https://github.com/joapuiib/pymdownx-inline-blocks)**: A Python Markdown extension to add inline block elements based on [PyMdown Block Extension](https://facelessuser.github.io/pymdown-extensions/extensions/blocks/).
 
 ## 🤝 Open source contributions
 
+- **[`jaywhj/mkdocs-materialx`](https://github.com/jaywhj/mkdocs-materialx/commits?author=joapuiib)**
 - **[`ultrabug/mkdocs-static-i18n`](https://github.com/ultrabug/mkdocs-static-i18n/commits?author=joapuiib)**
 - **[`EddyLuten/mkdocs-alias-plugin`](https://github.com/EddyLuten/mkdocs-alias-plugin/commits?author=joapuiib)**
 - **[`facelessuser/pymdown-extensions`](https://github.com/facelessuser/pymdown-extensions/commits?author=joapuiib)**
