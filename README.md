@@ -1,6 +1,7 @@
 # Hi, I'm Joan Puigcerver 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joanpuigcerver/)](https://www.linkedin.com/in/joanpuigcerver/)
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:joapuiib@gmail.com)
+[![Codeberg Badge](https://img.shields.io/badge/-Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white&link=https://codeberg.org/joapuiib)](https://codeberg.org/joapuiib)
 
 I'm a __Software Engineer__ and a __Computer Science Teacher__ from València.
 
@@ -21,7 +22,7 @@ I like to learn new things constantly and encorauge my students to do the same.
 
 - **[`jaywhj/mkdocs-materialx`](https://github.com/jaywhj/mkdocs-materialx/commits?author=joapuiib)**
 - **[`ultrabug/mkdocs-static-i18n`](https://github.com/ultrabug/mkdocs-static-i18n/commits?author=joapuiib)**
-- **[`EddyLuten/mkdocs-alias-plugin`](https://github.com/EddyLuten/mkdocs-alias-plugin/commits?author=joapuiib)**
+- **[`EddyLuten/mkdocs-alias-plugin`](https://github.com/EddyLuten/mkdocs-alias-plugin/commits?author=joapuiib)** ([moved to Codeberg](https://codeberg.org/luten/mkdocs-alias-plugin/commits/branch/main/search?q=author%3Ajoapuiib&all=))
 - **[`facelessuser/pymdown-extensions`](https://github.com/facelessuser/pymdown-extensions/commits?author=joapuiib)**
 - **[`simple-icons/simple-icons`](https://github.com/simple-icons/simple-icons/commits?author=joapuiib)**
 - **[`squidfunk/mkdocs-material`](https://github.com/squidfunk/mkdocs-material/commits?author=joapuiib)**
