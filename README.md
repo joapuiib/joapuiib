@@ -15,8 +15,11 @@ I like to learn new things constantly and encorauge my students to do the same.
 
 - **[`fp`](https://github.com/joapuiib/fp)**: Teaching materials for subjects related to computer science.
 - **[`curs-git`](https://github.com/joapuiib/curs-git)**: Git training course materials.
-- **[`mkdocs-data-plugin`](https://github.com/joapuiib/mkdocs-data-plugin)**: MkDocs plugin for reading data from markup files.
+- **[`mkdocs-material-joapuiib`](https://github.com/joapuiib/mkdocs-material-joapuiib)**: ProperDocs/Mkdocs theme with customizations buit on top of [`jaywhj/mkdocs-materialx`](https://github.com/jaywhj/mkdocs-materialx) ([mkdocs-material](https://squidfunk.github.io/mkdocs-material/) fork).
+- **[`mkdocs-data-plugin`](https://github.com/joapuiib/mkdocs-data-plugin)**: ProperDocs/MkDocs plugin for reading data from markup files.
 - **[`pymdownx-inline-blocks`](https://github.com/joapuiib/pymdownx-inline-blocks)**: A Python Markdown extension to add inline block elements based on [PyMdown Block Extension](https://facelessuser.github.io/pymdown-extensions/extensions/blocks/).
+- **[`pygments-shell-console`](https://github.com/joapuiib/pygments-shell-console)**: Pygments lexers for shell console sessions.
+
 
 ## 🤝 Open source contributions
 
