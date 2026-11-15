@@ -96,13 +96,6 @@ If you find any of these useful, a ⭐ on GitHub is always welcome.
 </details>
 
 <details>
-<summary><b><a href="https://github.com/squidfunk/mkdocs-material/commits?author=joapuiib"><code>squidfunk/mkdocs-material</code></a></b>: 1 merged PR</summary>
-
-- [#7654](https://github.com/squidfunk/mkdocs-material/pull/7654) Image captions docs
-
-</details>
-
-<details>
 <summary><b><a href="https://github.com/simple-icons/simple-icons/commits?author=joapuiib"><code>simple-icons/simple-icons</code></a></b>: 2 merged PRs</summary>
 
 - [#12145](https://github.com/simple-icons/simple-icons/pull/12145) Softcatalà icon
@@ -115,5 +108,13 @@ If you find any of these useful, a ⭐ on GitHub is always welcome.
 
 - [#38](https://github.com/rodgomesc/avell-unofficial-control-center/pull/38) Disable error fix
 - [#57](https://github.com/rodgomesc/avell-unofficial-control-center/pull/57) Fan speed option
+
+</details>
+
+<details>
+<summary><b>Other minor contributions</b></summary>
+
+- [`squidfunk/mkdocs-material`](https://github.com/squidfunk/mkdocs-material/commits?author=joapuiib): [#7654](https://github.com/squidfunk/mkdocs-material/pull/7654) Image captions docs
+- [`zensical/docs`](https://github.com/zensical/docs/commits?author=joapuiib): [#214](https://github.com/zensical/docs/pull/214) Fix Lucide icon syntax
 
 </details>
