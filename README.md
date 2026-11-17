@@ -96,6 +96,13 @@ If you find any of these useful, a ⭐ on GitHub is always welcome.
 </details>
 
 <details>
+<summary><b><a href="https://github.com/facelessuser/pyspelling/commits?author=joapuiib"><code>facelessuser/pyspelling</code></a></b>: 1 merged PR</summary>
+
+- [#218](https://github.com/facelessuser/pyspelling/pull/218) Per-file progress option
+
+</details>
+
+<details>
 <summary><b><a href="https://github.com/simple-icons/simple-icons/commits?author=joapuiib"><code>simple-icons/simple-icons</code></a></b>: 2 merged PRs</summary>
 
 - [#12145](https://github.com/simple-icons/simple-icons/pull/12145) Softcatalà icon
