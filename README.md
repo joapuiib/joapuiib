@@ -33,13 +33,14 @@ If you find any of these useful, a ⭐ on GitHub is always welcome.
 ## 🤝 Open source contributions
 
 <details>
-<summary><b><a href="https://github.com/jaywhj/mkdocs-materialx/commits?author=joapuiib"><code>jaywhj/mkdocs-materialx</code></a></b>: 5 merged PRs</summary>
+<summary><b><a href="https://github.com/jaywhj/mkdocs-materialx/commits?author=joapuiib"><code>jaywhj/mkdocs-materialx</code></a></b>: 6 merged PRs</summary>
 
 - [#16](https://github.com/jaywhj/mkdocs-materialx/pull/16) Modular admonition CSS
 - [#18](https://github.com/jaywhj/mkdocs-materialx/pull/18) Development setup docs
 - [#27](https://github.com/jaywhj/mkdocs-materialx/pull/27) Configurable admonitions
 - [#30](https://github.com/jaywhj/mkdocs-materialx/pull/30) Bundled icons favicon
 - [#31](https://github.com/jaywhj/mkdocs-materialx/pull/31) Template style overrides
+- [#155](https://github.com/jaywhj/mkdocs-materialx/pull/155) Don't write scroll offset to history while printing
 
 </details>
 
